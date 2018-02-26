@@ -143,8 +143,10 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="img\Jeff_Resume_Updated.pdf" />
     <None Include="Properties\PublishProfiles\AzureServerVM - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="img\jeff_chair.jpg" />
     <Content Include="Resume.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
