@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <asp:Panel runat="server" ID="Pnl_Content" HorizontalAlign="Center">
-        <h2><%: Title %>.</h2>
+        <%--<h2><%: Title %>.</h2>--%>
     <h3>Jeff Beauplan</h3>
     <address>
         6515 Belcrest Rd<br />

@@ -54,7 +54,8 @@
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="/web/viewer.html?file=Jeff_Resume_Updated.pdf">Resume</a></li>
-                        <li><a runat="server" href="Experience.aspx">Experience</a></li>
+                        <%--<li><a runat="server" href="~/Resume">Resume</a></li>--%>
+                        <li><a runat="server" href="Experience">Experience</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                     </ul>
                 </div>
@@ -65,7 +66,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Jeff's ASP.NET Application</p>
             </footer>
         </div>
 
